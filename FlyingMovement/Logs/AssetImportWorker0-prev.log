@@ -1,0 +1,473 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.804; Version 2009; 64bit' Language: 'es' Physical Memory: 32703 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ocelo/Documents/OcelotDev/Flying Tutorial/FlyingMovement
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60769
+Successfully changed project path to: C:/Users/ocelo/Documents/OcelotDev/Flying Tutorial/FlyingMovement
+C:/Users/ocelo/Documents/OcelotDev/Flying Tutorial/FlyingMovement
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 26.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ocelo/Documents/OcelotDev/Flying Tutorial/FlyingMovement/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 SUPER (ID=0x2187)
+    Vendor:   
+    VRAM:     3955 MB
+    Driver:   27.21.14.6172
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56360
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002750 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 27.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.228 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001052 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.898 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1224 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.3 MB.
+System memory in use after: 64.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1667.
+Total: 1.931900 ms (FindLiveObjects: 0.240100 ms CreateObjectMapping: 0.042600 ms MarkObjects: 1.570500 ms  DeleteObjects: 0.077400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Start Here/Scene/Start Here.unity
+  artifactKey: Guid(0709ed14507206444b9176dd3bc3d04d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Start Here/Scene/Start Here.unity using Guid(0709ed14507206444b9176dd3bc3d04d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e139b7c229562818183bdb6a4862fed7') in 0.017252 seconds
+  Import took 0.019371 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000943 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.854 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1193 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.1 MB.
+System memory in use after: 62.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1670.
+Total: 1.669700 ms (FindLiveObjects: 0.170800 ms CreateObjectMapping: 0.030600 ms MarkObjects: 1.452000 ms  DeleteObjects: 0.015100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000857 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.866 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1193 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.2 MB.
+System memory in use after: 62.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1672.
+Total: 2.663600 ms (FindLiveObjects: 0.308800 ms CreateObjectMapping: 0.135600 ms MarkObjects: 2.197200 ms  DeleteObjects: 0.020100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 6005.621561 seconds.
+  path: Assets/_Shared
+  artifactKey: Guid(9ca8194131a41e44eb77c3360e4647ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared using Guid(9ca8194131a41e44eb77c3360e4647ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2ec326e38a9356aaa934a4b5984b396') in 0.012605 seconds
+  Import took 0.015036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025161 seconds.
+  path: Assets/_Shared/Textures/Rock Texture 1/Rock Final_lambert1_Normal.png
+  artifactKey: Guid(f0d3fa5f1146c674cb2608868cb4d91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Textures/Rock Texture 1/Rock Final_lambert1_Normal.png using Guid(f0d3fa5f1146c674cb2608868cb4d91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3d3205f60b82b1544ce3bba26deba8') in 0.100677 seconds
+  Import took 0.103504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019107 seconds.
+  path: Assets/_Shared/Materials/Spaceship Mat/Spaceship9.mat
+  artifactKey: Guid(35537f61b6314c94bb4cc9cb5b71b657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Spaceship Mat/Spaceship9.mat using Guid(35537f61b6314c94bb4cc9cb5b71b657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1623964eee9a6e17f07d23715cf5ec3e') in 0.074186 seconds
+  Import took 0.076981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018132 seconds.
+  path: Assets/_Shared/Modelos
+  artifactKey: Guid(0f1f312e26b8716409b3a321614618ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Modelos using Guid(0f1f312e26b8716409b3a321614618ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9adcea779765b5c16abc39945fc7926') in 0.008025 seconds
+  Import took 0.010798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013265 seconds.
+  path: Assets/_Shared/Modelos/Rocas
+  artifactKey: Guid(eea90224ebe299148ba922b65ee4e882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Modelos/Rocas using Guid(eea90224ebe299148ba922b65ee4e882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e80c684b45ae5b6e7c3230d065e269f') in 0.008121 seconds
+  Import took 0.010321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016574 seconds.
+  path: Assets/_Shared/Textures/Rock Texture 1/Rock Final_lambert1_Height.png
+  artifactKey: Guid(30a46bbcd4c9d294a97d464e1b70152c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Textures/Rock Texture 1/Rock Final_lambert1_Height.png using Guid(30a46bbcd4c9d294a97d464e1b70152c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0046e9f966caa40d3407bf35b74df29') in 0.018846 seconds
+  Import took 0.021309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020890 seconds.
+  path: Assets/_Shared/Materials/Skybox/Space 1.mat
+  artifactKey: Guid(a3a266c1abb8bdb45aacc0d480ad295f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Skybox/Space 1.mat using Guid(a3a266c1abb8bdb45aacc0d480ad295f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48c8c14c75122d0570152291e952a75') in 0.158165 seconds
+  Import took 0.163166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038807 seconds.
+  path: Assets/_Shared/Modelos/Rocas/Rock 2.fbx
+  artifactKey: Guid(cfeaf168cbff4a44ab1db426f5f9c677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Modelos/Rocas/Rock 2.fbx using Guid(cfeaf168cbff4a44ab1db426f5f9c677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd28f4bf60e61d1c168479e16aeb322c') in 0.565061 seconds
+  Import took 0.567631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.143157 seconds.
+  path: Assets/_Shared/Materials/Rock
+  artifactKey: Guid(09ba73800429d764e92ebdbb62055ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Rock using Guid(09ba73800429d764e92ebdbb62055ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a55b106a6664ea7f009bc44a73277498') in 0.007638 seconds
+  Import took 0.010143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014329 seconds.
+  path: Assets/_Shared/Materials/Spaceship Mat/Spaceship4.mat
+  artifactKey: Guid(c7238655b2f22a2439b21ea6d9d3d0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Spaceship Mat/Spaceship4.mat using Guid(c7238655b2f22a2439b21ea6d9d3d0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f9cb62eff2642eeb1811023880072e2') in 0.019916 seconds
+  Import took 0.022069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019179 seconds.
+  path: Assets/_Shared/Scripts/Spawner/AsteroidSpawner.cs
+  artifactKey: Guid(bff988d597779ad498c00ea825ff93d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Scripts/Spawner/AsteroidSpawner.cs using Guid(bff988d597779ad498c00ea825ff93d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c091c960f8cc0b7a0e0e580c26af78a1') in 0.010821 seconds
+  Import took 0.013138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050254 seconds.
+  path: Assets/_Shared/Materials/Spaceship Mat/Spaceship1.mat
+  artifactKey: Guid(cb4cf65a01e50c94995cfd69edaebf16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Spaceship Mat/Spaceship1.mat using Guid(cb4cf65a01e50c94995cfd69edaebf16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32fe2423967129cec7833985a4138008') in 0.018871 seconds
+  Import took 0.021365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031785 seconds.
+  path: Assets/_Shared/Textures/Rock Texture 1
+  artifactKey: Guid(7914bad11eccacb4bb28a8057cef6741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Textures/Rock Texture 1 using Guid(7914bad11eccacb4bb28a8057cef6741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f77769e5cde1245694aa05a33f8b5c5a') in 0.008075 seconds
+  Import took 0.010161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015081 seconds.
+  path: Assets/_Shared/Materials/Spaceship Mat/Spaceship5.mat
+  artifactKey: Guid(5ceba574220350349af9eb6eedffa564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Spaceship Mat/Spaceship5.mat using Guid(5ceba574220350349af9eb6eedffa564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6f0716ad1ed561c17946b3cd7cc8414') in 0.126861 seconds
+  Import took 0.129143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027891 seconds.
+  path: Assets/_Shared/Modelos/Rocas/Rock 1.fbx
+  artifactKey: Guid(ffbfd16e37d8d8947ae8918b8c9c45d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Modelos/Rocas/Rock 1.fbx using Guid(ffbfd16e37d8d8947ae8918b8c9c45d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e19395aaec8f03375951ac4268af5446') in 0.028617 seconds
+  Import took 0.030871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017954 seconds.
+  path: Assets/_Shared/Textures/Rock Texture 2
+  artifactKey: Guid(24b6097ce3df54b4c8345f95859ceee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Textures/Rock Texture 2 using Guid(24b6097ce3df54b4c8345f95859ceee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8bb512e3f377ca55dc7d2c7a138852a') in 0.007933 seconds
+  Import took 0.010003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014436 seconds.
+  path: Assets/_Shared/Materials/Spaceship Mat/Spaceship10.mat
+  artifactKey: Guid(015f89dc98aa2994086c7eb0800bec7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Spaceship Mat/Spaceship10.mat using Guid(015f89dc98aa2994086c7eb0800bec7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72522a8fa5a76f53865d197dedb1b1aa') in 0.017887 seconds
+  Import took 0.020441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017561 seconds.
+  path: Assets/_Shared/Materials
+  artifactKey: Guid(203847c0992557844921181de2cd3a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials using Guid(203847c0992557844921181de2cd3a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc62f657b7c4e4437122f2b035a4bb7') in 0.008067 seconds
+  Import took 0.010535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024224 seconds.
+  path: Assets/_Shared/Materials/Skybox/Space 2.mat
+  artifactKey: Guid(1830c6fb202d8124685f1dedcb759c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Skybox/Space 2.mat using Guid(1830c6fb202d8124685f1dedcb759c98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b53416d8cf0d2b88c43a19779f577c4e') in 0.057902 seconds
+  Import took 0.062838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034999 seconds.
+  path: Assets/_Shared/Textures/Rock Texture 2/Rock Final 2_lambert1_Height.png
+  artifactKey: Guid(8da40c4ca2a3bc54ca542ef6da795966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Textures/Rock Texture 2/Rock Final 2_lambert1_Height.png using Guid(8da40c4ca2a3bc54ca542ef6da795966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '786cdc46c5965753c0b0c2f2712e52e6') in 0.013120 seconds
+  Import took 0.015482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018190 seconds.
+  path: Assets/_Shared/Materials/Spaceship Mat/Spaceship3.mat
+  artifactKey: Guid(3f7d8fe0bb2ecd74e94a514276c1b3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Spaceship Mat/Spaceship3.mat using Guid(3f7d8fe0bb2ecd74e94a514276c1b3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4018bcbaaedc54f960e1b5eed7c70ff0') in 0.018707 seconds
+  Import took 0.020858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017810 seconds.
+  path: Assets/_Shared/Textures/HDRI
+  artifactKey: Guid(f657a2822d79ccd4483140cd0d849b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Textures/HDRI using Guid(f657a2822d79ccd4483140cd0d849b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '614727b3c9bc411ceeb970432604efd7') in 0.008191 seconds
+  Import took 0.010307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016917 seconds.
+  path: Assets/_Shared/Materials/Spaceship Mat/Spaceship6.mat
+  artifactKey: Guid(8fe898f703701e44496b33a94e87915d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Spaceship Mat/Spaceship6.mat using Guid(8fe898f703701e44496b33a94e87915d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d3a2bcc146498da98eb30696707c5fe') in 0.013135 seconds
+  Import took 0.015637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016084 seconds.
+  path: Assets/_Shared/Materials/Rock/Rock Type 1.mat
+  artifactKey: Guid(3084d341d1828d04ca5e7bd230d02d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Rock/Rock Type 1.mat using Guid(3084d341d1828d04ca5e7bd230d02d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf4c82886d32e6864c70403fe6872e8c') in 0.023780 seconds
+  Import took 0.026477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032559 seconds.
+  path: Assets/_Shared/Textures/Rock Texture 1/Rock Final_lambert1_Albedo.png
+  artifactKey: Guid(436997d7144b5e546a258f4594f76ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Textures/Rock Texture 1/Rock Final_lambert1_Albedo.png using Guid(436997d7144b5e546a258f4594f76ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c963811422a51999e0d55bd8e9d1f5') in 0.022769 seconds
+  Import took 0.025520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034423 seconds.
+  path: Assets/_Shared/Textures/Rock Texture 1/Rock Final_lambert1_AO.png
+  artifactKey: Guid(df9aff6968d13a84688bb86030fb3385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Textures/Rock Texture 1/Rock Final_lambert1_AO.png using Guid(df9aff6968d13a84688bb86030fb3385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3200ba52cc152dc093f6f54cafd5bf51') in 0.016702 seconds
+  Import took 0.019261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019004 seconds.
+  path: Assets/_Shared/Materials/Spaceship Mat
+  artifactKey: Guid(34442e85f2922ea49a0e0f8af4389f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Spaceship Mat using Guid(34442e85f2922ea49a0e0f8af4389f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a777affea607f216c151d206591f0c19') in 0.007516 seconds
+  Import took 0.009985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015115 seconds.
+  path: Assets/_Shared/Materials/Spaceship Mat/Spaceship7.mat
+  artifactKey: Guid(9e4807be9534245418ed0a548a7e7f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Spaceship Mat/Spaceship7.mat using Guid(9e4807be9534245418ed0a548a7e7f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db8bf26273e79e159aec826ba6fa61a') in 0.020060 seconds
+  Import took 0.022331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021813 seconds.
+  path: Assets/_Shared/Textures/Rock Texture 2/Rock Final 2_lambert1_Metallic.png
+  artifactKey: Guid(6a34bb980ffcdfa40a1b5234400264ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Textures/Rock Texture 2/Rock Final 2_lambert1_Metallic.png using Guid(6a34bb980ffcdfa40a1b5234400264ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83cd441bcbcc77cd558b45bdb3b64027') in 0.017691 seconds
+  Import took 0.020452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025544 seconds.
+  path: Assets/_Shared/Textures/Rock Texture 2/Rock Final 2_lambert1_Albedo.png
+  artifactKey: Guid(62bc9692ac4fb1d42a708ebd4e06dd5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Textures/Rock Texture 2/Rock Final 2_lambert1_Albedo.png using Guid(62bc9692ac4fb1d42a708ebd4e06dd5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5743ac928742dd9021448b4954717c6') in 0.018015 seconds
+  Import took 0.020211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021145 seconds.
+  path: Assets/_Shared/Materials/Rock/Rock Type 2.mat
+  artifactKey: Guid(e5b60b66500fb934a8632ac59275e843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Rock/Rock Type 2.mat using Guid(e5b60b66500fb934a8632ac59275e843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b8d669caebb3f6ddf4515ff63d32138') in 0.024401 seconds
+  Import took 0.026775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020942 seconds.
+  path: Assets/_Shared/Materials/Spaceship Mat/Spaceship11.mat
+  artifactKey: Guid(c61cd7b86bf429046abe4d6a63c90a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Spaceship Mat/Spaceship11.mat using Guid(c61cd7b86bf429046abe4d6a63c90a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7abcf26678b9558d11725fd4e899a7ea') in 0.015117 seconds
+  Import took 0.017360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016306 seconds.
+  path: Assets/Start Here/Scene/Start HereSettings.lighting
+  artifactKey: Guid(ad0ba02d214355d438aebaa39629835a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Start Here/Scene/Start HereSettings.lighting using Guid(ad0ba02d214355d438aebaa39629835a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fcd424de71849b94e14e3916dfa94b7') in 0.013148 seconds
+  Import took 0.015612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017651 seconds.
+  path: Assets/_Shared/Textures/Rock Texture 2/Rock Final 2_lambert1_AO.png
+  artifactKey: Guid(e1d1e4d1bba7e4b438a9db8b4cb09bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Textures/Rock Texture 2/Rock Final 2_lambert1_AO.png using Guid(e1d1e4d1bba7e4b438a9db8b4cb09bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5d25580fb1c56a6999ad7975cd7f281') in 0.020131 seconds
+  Import took 0.022443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021737 seconds.
+  path: Assets/_Shared/Materials/Spaceship Mat/Spaceship0.mat
+  artifactKey: Guid(348cbe45fe3dd654ba08273dbb2d081d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Spaceship Mat/Spaceship0.mat using Guid(348cbe45fe3dd654ba08273dbb2d081d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abbf67067b338c0f84c7b6c81db7b521') in 0.015619 seconds
+  Import took 0.017954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030712 seconds.
+  path: Assets/_Shared/Scripts/Spawner
+  artifactKey: Guid(7395e52f8af9e8142b009450c94ea009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Scripts/Spawner using Guid(7395e52f8af9e8142b009450c94ea009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7c3d193c7b7030d16ccce10accc2550') in 0.008634 seconds
+  Import took 0.011026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017156 seconds.
+  path: Assets/_Shared/Textures/Rock Texture 1/Rock Final_lambert1_Metallic.png
+  artifactKey: Guid(8f65667db4a47bd44b1684a2e09bf69a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Textures/Rock Texture 1/Rock Final_lambert1_Metallic.png using Guid(8f65667db4a47bd44b1684a2e09bf69a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a62a6960595250fc4dd59c31ef04723') in 0.016318 seconds
+  Import took 0.018912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016461 seconds.
+  path: Assets/_Shared/Materials/Spaceship Mat/Spaceship2.mat
+  artifactKey: Guid(13532204b2ef4fa4887b67fa19781482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Spaceship Mat/Spaceship2.mat using Guid(13532204b2ef4fa4887b67fa19781482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '941a8a914432f9302466e295e9715d39') in 0.021485 seconds
+  Import took 0.023779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019942 seconds.
+  path: Assets/_Shared/Modelos/Nave Espacial
+  artifactKey: Guid(046a1377c730fdd4e9eae18db973ab14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Modelos/Nave Espacial using Guid(046a1377c730fdd4e9eae18db973ab14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15a928fac59e820490e79e7675f46b8f') in 0.009152 seconds
+  Import took 0.011550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015623 seconds.
+  path: Assets/_Shared/Materials/Skybox
+  artifactKey: Guid(d45a891f9f0ac474b849dd6851d6f09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Skybox using Guid(d45a891f9f0ac474b849dd6851d6f09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75657a2231acf289c25e7126c306f399') in 0.008625 seconds
+  Import took 0.011272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021930 seconds.
+  path: Assets/_Shared/Textures/Rock Texture 2/Rock Final 2_lambert1_Normal.png
+  artifactKey: Guid(c0bbc3f8161a62b468975e2d094dcec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Textures/Rock Texture 2/Rock Final 2_lambert1_Normal.png using Guid(c0bbc3f8161a62b468975e2d094dcec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04c8a6072516fb0a882b79ed1323948b') in 0.017251 seconds
+  Import took 0.020081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048475 seconds.
+  path: Assets/_Shared/Materials/Spaceship Mat/Spaceship8.mat
+  artifactKey: Guid(cdd6eb748a658c24e8401c2172ea4b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Materials/Spaceship Mat/Spaceship8.mat using Guid(cdd6eb748a658c24e8401c2172ea4b5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35c366dcc0b745f9fb3df159c257d67d') in 0.014450 seconds
+  Import took 0.016647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027926 seconds.
+  path: Assets/_Shared/Modelos/Nave Espacial/Spaceship.fbx
+  artifactKey: Guid(b1f2380377610e34c8fbb556494c8821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Shared/Modelos/Nave Espacial/Spaceship.fbx using Guid(b1f2380377610e34c8fbb556494c8821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df112938de70b5ce3a05db27054756f') in 0.035343 seconds
+  Import took 0.037991 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
