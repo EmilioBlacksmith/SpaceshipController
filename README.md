@@ -3,4 +3,4 @@ This is a unity project that simulates a simplified version of flight physics. B
 https://www.grc.nasa.gov/www/k-12/UEET/StudentSite/dynamicsofflight.html
 
 Tutorial.
-
+https://www.youtube.com/watch?v=_cHjVuUiZGw
